@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Камера</string>
+    <string name="OK">OK</string>
+    <string name="Camera_mode">Режим камери</string>
+    <string name="add_new_camera">Додати нову</string>
+    <string name="add_new_folder_title">Додавання нової папки</string>
+    <string name="camera_mode_photo">Фото</string>
+    <string name="camera_mode_videa">Відео</string>
+    <string name="camera_title_add_new">Додати нову</string>
+    <string name="camera_title_family">Сімейна</string>
+    <string name="camera_title_hobbi">Хоббі</string>
+    <string name="camera_title_job">Робота</string>
+    <string name="camera_title_notebook">Записна книжка</string>
+    <string name="camera_title_scanner">Сканер</string>
+    <string name="camera_title_selfi">Селфі</string>
+    <string name="camera_title_standart">Стандартна</string>
+    <string name="enter_name_of_new_folder">Введіть імя нової папки</string>
+    <string name="no_sd_card_error_massage">Вставте SD-карту</string>
+    <string name="no_sd_card_error_massage_title">Помилка</string>
+    <string name="title_camera">Камера</string>
+    <string name="delete">Удалити</string>
+    <string name="rename">Перейменувати</string>
+    <string name="rename_folder">Перейменувати папку</string>
+    <string name="enter_name">введіть назву</string>
+    <string name="open">відкрити</string>
+    <string name="delete_folder">Видалити папку?</string>
+    <string name="CANCEL">Відмінити</string>
+    <string name="change_lang">Оберiть мову</string>
+    <string name="title_options">Додаткові опцiї</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="Camera_mode">Сamera Mode</string>
+    <string name="OK">OK</string>
+    <string name="add_new_camera">Add new</string>
+    <string name="add_new_folder_title">Add a new Folder</string>
+    <string name="camera_mode_photo">Photo</string>
+    <string name="camera_mode_videa">Video</string>
+    <string name="camera_title_hobbi">Hobby</string>
+    <string name="camera_title_family">Family</string>
+    <string name="camera_title_add_new">Add new</string>
+    <string name="camera_title_job">Job</string>
+    <string name="camera_title_notebook">Notebook</string>
+    <string name="camera_title_scanner">Scanner</string>
+    <string name="camera_title_selfi">Selfie</string>
+    <string name="camera_title_standart">Standard</string>
+    <string name="enter_name_of_new_folder">Enter a name for the new folder</string>
+    <string name="no_sd_card_error_massage">Insert the SD-card</string>
+    <string name="no_sd_card_error_massage_title">Error</string>
+    <string name="title_camera">Camera</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="rename_folder">Rename folder</string>
+    <string name="enter_name">enter name</string>
+    <string name="open">open</string>
+    <string name="delete_folder">Dou you want to remove folder?</string>
+    <string name="CANCEL">Cancel</string>
+    <string name="change_lang">Change language</string>
+    <string name="title_options">Options</string>
+</resources>

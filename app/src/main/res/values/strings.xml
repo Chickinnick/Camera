@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Camera</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="no_sd_card_error_massage">Insert the SD-card</string>
+    <string name="no_sd_card_error_massage_title">Error</string>
+    <string name="OK">OK</string>
+    <string name="Camera_mode">Сamera Mode</string>
+    <string name="camera_mode_photo">Photo</string>
+    <string name="camera_mode_videa">Video</string>
+    <string name="add_new_camera">Add new</string>
+    <string name="enter_name_of_new_folder">Enter a name for the new folder</string>
+    <string name="add_new_folder_title">Add a new Folder</string>
+    <string name="camera_title_standart">Standard</string>
+    <string name="camera_title_notebook">Notebook</string>
+    <string name="camera_title_selfi">Selfie</string>
+    <string name="camera_title_scanner">Scanner</string>
+    <string name="camera_title_family">Family</string>
+    <string name="camera_title_job">Job</string>
+    <string name="camera_title_hobbi">Hobby</string>
+    <string name="camera_title_add_new">Add new</string>
+    <string name="title_camera">Camera</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="facebook_app_id">795892330528602</string>
+    <string name="delete">Удалить</string>
+    <string name="rename">Переименовать</string>
+    <string name="rename_folder">Переименовать папку</string>
+    <string name="enter_name">введите имя</string>
+    <string name="open">открыть</string>
+    <string name="delete_folder">Удалить папку?</string>
+    <string name="CANCEL">Отмена</string>
+    <string name="change_lang">Выберите язык</string>
+    <string name="title_options">Дополнительные опции</string>
+
+    <string-array name="langs">
+        <item name="english">English</item>
+        <item name="russian">Русский</item>
+        <item name="ukranian">Українська</item>
+
+    </string-array>
+</resources>
